@@ -85,6 +85,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  - 2.11. Besprechungs-, Veranstaltungs- und Schulungsräume
  - 2.12. IT-Verkabelung
 #### - Schicht 3 - IT-Systeme
+#### Diese Schicht behandelt einzelnen IT-Systeme eines Informationsverbunds, die gegebenenfalls in Gruppen zusammengefasst wurden. D. h das die Sicherheitsaspekte von Clients, Servern als auch von Einzelplatz-Systemen in dieser Schicht behandelt werden. Typische Beispiele sind TK-Anlagen, Laptops sowie Clients unter Windows 10.
  - 3.101. Allgemeiner Server
  - 3.102. Server unter Unix
  - 3.103. Server unter Windows NT
