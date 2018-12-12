@@ -9,7 +9,8 @@ Um alle Informationen verschiedener Einsatzumgebungen angemessen zu schützen, s
 Informationssicherheit konzentriert sich nicht nur auf die IT-Systeme sondern auch stark auf die personellen und organisatorischen Rahmenbedingungen, , wie zum Beispiel
 
 - Sicherheit der Betriebsumgebung 
-- die Verlässlichkeit von Dienstleistern.
+- die Verlässlichkeit von Dienstleistern
+- richtiger Umgang mit zu schützenden Informationen
 
 
 ### Datenschutz vs. Datensicherheit:
