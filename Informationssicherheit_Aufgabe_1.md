@@ -121,6 +121,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
 -  3.406. Drucker, Kopierer und Multifunktionsgeräte
  - 3.407. Eingebettetes System
 #### - Schicht 4 - Netze
+#### Schicht 4 behandelt die Aspekte der  Netzverbindungen und die der Kommunikation. Dazu gehören zum Beispiel die Bausteine Netzmanagement, WLAN, VoIP sowie VPN.
  - 4.1. Lokale Netze
 -  4.2. Netz- und Systemmanagement
  - 4.3. Modem
