@@ -49,8 +49,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
 4. KWG: Kreditwesengesetz mit Bankenaufsichtliche Anforderungen an die IT (BAIT), Mindestanforderungen an die Compliance-Funktion (MaComp) und an das Risikomanagement (BA) (MaRisk (BA))
 
 ### Das Schichtenmodell nach BSI
-#### 1. Schicht - Übergreifende Aspekte
-##### umfasst die übergreifenden Sicherheitsaspekte, die für sämtliche oder große Teile des Informationsverbunds gleichermaßen gelten. Dies betrifft insbesondere übergreifende Konzepte und die daraus abgeleiteten Regelungen. Typische Bausteine der Schicht 1 sind unter anderem IT-Sicherheitsmanagement, Organisation, Datensicherungskonzept und Schutz vor Schadprogramme.
+#### 1. Schicht - Übergreifende Aspekte sind Sicherheitsaspekte, für nahzu alle Teile des Informationsverbunds gleichermaßen gelten. Insbesondere betroffen sind abgeleiteten Regelungen der übergreifende Konzepte. Schicht 1 umfasst typische Bausteine wie unter anderem IT-Sicherheitsmanagement, Organisation, Datensicherungskonzept und Schutz vor Schadprogramme.
  - 1.0. Sicherheitsmanagement
  - 1.1. Organisation
  - 1.2. Personal
