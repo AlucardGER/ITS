@@ -32,6 +32,15 @@ IT-Sicherheit bezeichnet einen Zustand, in dem die Risiken, die beim Einsatz von
 
 
 ### Rechtliche Vorgaben
+Deutsche Unternehmen sind gesetzlich dazu verpflichtet, sich um den Aufbau und die Pflege eines Risikomanagements zu kümmern und in die Umsetzung von Maßnahmen zur IT-Sicherheit zu investieren.
+Was in Zeiten von Globalisierung und Mobilität großen Nutzen bringt, birgt durch die hohe Abhängigkeit von IT-Systemen für Unternehmen aber auch Gefahren.
+
+Auf diesen Sachverhalt hat der Gesetzgeber reagiert und verschärfte Anforderungen an eine unternehmensweite Informationssicherheit definiert.
+
+https://blog.adacor.com/gesetzliche-anforderungen-it-compliance_1055.html 
+
+
+B 1.5 Datenschutz 
 
 
 ### Das Schichtenmodell nach BSI
