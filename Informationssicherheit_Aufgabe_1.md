@@ -70,7 +70,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  - 1.16. Anforderungsmanagement
  - 1.17. Cloud-Nutzung
  - 1.18. Identitäts- und Berechtigungsmanagement
-#### - Schicht 2 - Infrastruktur
+#### 2. Schicht - Infrastruktur
 #### Bauliche und physischen Gegebenheiten werden in der Schicht 2 behandelt, indem Aspekte der infrastrukturellen Sicherheit zusammengeführt werden. Typische Bausteine sind zum Beispiel Gebäude, Serverraum, Rechenzentrum und häuslicher Arbeitsplatz.
  - 2.1. Allgemeines Gebäude
  - 2.2. Elektrotechnische Verkabelung
@@ -84,7 +84,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  - 2.10. Mobiler Arbeitsplatz
  - 2.11. Besprechungs-, Veranstaltungs- und Schulungsräume
  - 2.12. IT-Verkabelung
-#### - Schicht 3 - IT-Systeme
+#### 3. Schicht - IT-Systeme
 #### Diese Schicht behandelt einzelnen IT-Systeme eines Informationsverbunds, die gegebenenfalls in Gruppen zusammengefasst wurden. D. h das die Sicherheitsaspekte von Clients, Servern als auch von Einzelplatz-Systemen in dieser Schicht behandelt werden. Typische Beispiele sind TK-Anlagen, Laptops sowie Clients unter Windows 10.
  - 3.101. Allgemeiner Server
  - 3.102. Server unter Unix
@@ -120,7 +120,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  - 3.405. Smartphones, Tablets und PDAs
 -  3.406. Drucker, Kopierer und Multifunktionsgeräte
  - 3.407. Eingebettetes System
-#### - Schicht 4 - Netze
+#### 4. Schicht - Netze
 #### Schicht 4 behandelt die Aspekte der  Netzverbindungen und die der Kommunikation. Dazu gehören zum Beispiel die Bausteine Netzmanagement, WLAN, VoIP sowie VPN.
  - 4.1. Lokale Netze
 -  4.2. Netz- und Systemmanagement
@@ -130,7 +130,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
 -  4.6. WLAN
 -  4.7. VoIP
 -  4.8. Bluetooth
-#### - Schicht 5 - Anwendungen
+#### 5. Schicht - Anwendungen
 - 5.1. Peer-to-Peer-Dienste
 - 5.2. Datenträgeraustausch
 - 5.3. Groupware
