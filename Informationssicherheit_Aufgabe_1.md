@@ -1,4 +1,4 @@
-# Aufgabe1
+# Aufgabe 1
 
 ## 1. Informieren Sie sich über die Grundlagen der Informationssicherheit ⌚30‘ Fassen Sie die wichtigsten Informationen kurz in einer DOKUMENTATION zusammen:
 
