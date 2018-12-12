@@ -40,6 +40,7 @@ Auf diesen Sachverhalt hat der Gesetzgeber reagiert und verschärfte Anforderung
 1. EU-Datenschutzgrundverordnung (EU-DSGVO)
 - Europerweite vereinheitlichte Verordnung über Regelen zur Verarbeitung personenbezogener Daten durch private Unternehmen öffentliche Stellen 
 2. KonTraG: Gesetz zur Kontrolle und Transparenz im Unternehmensbereich
+- Unternehmensleitung ist dazu verpflichtet, ein unternehmensweites Früherkennungssystem für Risiken einzuführen und zu betreiben (Risikofrüherkennungssystem, Risikomanagment)
 3. GoBD: Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff durch die Finanzverwaltungen
 4. S-Ox: Sarbanes-Oxley Act
 5. COSO: Committee of Sponsoring Organizations of the Treadway Commission
