@@ -48,13 +48,6 @@ Schutz der Daten vor Verlust und unberechtigten
 Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine entsprechende Kennzeichnung
 4. KWG: Kreditwesengesetz mit Bankenaufsichtliche Anforderungen an die IT (BAIT), Mindestanforderungen an die Compliance-Funktion (MaComp) und an das Risikomanagement (BA) (MaRisk (BA))
 
-
-https://blog.adacor.com/gesetzliche-anforderungen-it-compliance_1055.html 
-
-
-B 1.5 Datenschutz 
-
-
 ### Das Schichtenmodell nach BSI
 
 
