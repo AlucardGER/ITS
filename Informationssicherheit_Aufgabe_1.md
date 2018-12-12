@@ -71,42 +71,42 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  - 1.17. Cloud-Nutzung
  - 1.18. Identitäts- und Berechtigungsmanagement
 #### - Schicht 2 - Infrastruktur
- 2.1. Allgemeines Gebäude
- 2.2. Elektrotechnische Verkabelung
- 2.3. Büroraum / Lokaler Arbeitsplatz
- 2.4. Serverraum
- 2.5. Datenträgerarchiv
- 2.6. Raum für technische Infrastruktur
- 2.7. Schutzschränke
- 2.8. Häuslicher Arbeitsplatz
- 2.9. Rechenzentrum
- 2.10. Mobiler Arbeitsplatz
- 2.11. Besprechungs-, Veranstaltungs- und Schulungsräume
- 2.12. IT-Verkabelung
+ - 2.1. Allgemeines Gebäude
+ - 2.2. Elektrotechnische Verkabelung
+ - 2.3. Büroraum / Lokaler Arbeitsplatz
+ - 2.4. Serverraum
+ - 2.5. Datenträgerarchiv
+ - 2.6. Raum für technische Infrastruktur
+ - 2.7. Schutzschränke
+ - 2.8. Häuslicher Arbeitsplatz
+ - 2.9. Rechenzentrum
+ - 2.10. Mobiler Arbeitsplatz
+ - 2.11. Besprechungs-, Veranstaltungs- und Schulungsräume
+ - 2.12. IT-Verkabelung
 #### - Schicht 3 - IT-Systeme
- 3.101. Allgemeiner Server
- 3.102. Server unter Unix
- 3.103. Server unter Windows NT
- 3.104. Server unter Novell Netware 3.x
- 3.105. Server unter Novell Netware Version 4.x
- 3.106. Server unter Windows 2000
- 3.107. S/390- und zSeries-Mainframe
- 3.108. Windows Server 2003
- 3.109. Windows Server 2008
- 3.201. Allgemeiner Client
- 3.202. Allgemeines nicht vernetztes IT-System
- 3.203. Laptop
- 3.204. Client unter Unix
- 3.205. Client unter Windows NT
- 3.206. Client unter Windows 95
- 3.207. Client unter Windows 2000
- 3.208. Internet-PC
- 3.209. Client unter Windows XP
- 3.210. Client unter Windows Vista
- 3.211. Client unter Mac OS X
- 3.212. Client unter Windows 7
- 3.213. Client unter Windows 8
- 3.301. Sicherheitsgateway (Firewall)
+ - 3.101. Allgemeiner Server
+ - 3.102. Server unter Unix
+ - 3.103. Server unter Windows NT
+ - 3.104. Server unter Novell Netware 3.x
+ - 3.105. Server unter Novell Netware Version 4.x
+ - 3.106. Server unter Windows 2000
+ - 3.107. S/390- und zSeries-Mainframe
+ - 3.108. Windows Server 2003
+ - 3.109. Windows Server 2008
+ - 3.201. Allgemeiner Client
+ - 3.202. Allgemeines nicht vernetztes IT-System
+ - 3.203. Laptop
+ - 3.204. Client unter Unix
+ - 3.205. Client unter Windows NT
+ - 3.206. Client unter Windows 95
+ - 3.207. Client unter Windows 2000
+ - 3.208. Internet-PC
+ - 3.209. Client unter Windows XP
+ - 3.210. Client unter Windows Vista
+ - 3.211. Client unter Mac OS X
+ - 3.212. Client unter Windows 7
+ - 3.213. Client unter Windows 8
+ - 3.301. Sicherheitsgateway (Firewall)
  3.302. Router und Switches
  3.303. Speicherlösungen / Cloud Storage
  3.304. Virtualisierung
