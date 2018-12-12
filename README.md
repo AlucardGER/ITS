@@ -8,10 +8,11 @@ Informationssicherheit dient für eine zuverlässig und funktionierende Informat
 Um alle Informationen verschiedener Einsatzumgebungen angemessen zu schützen, stellt das Bundesamt für Sicherheit in der Informationstechnik (BSI) mit der IT-Grundschutz-Vorgehensweise im BSI-Standard 100-2 und ein IT-Grundschutz-Katalog zur Verfügung.
 Informationssicherheit konzentriert sich nicht nur auf die IT-Systeme sondern auch stark auf die personellen und organisatorischen Rahmenbedingungen, , wie zum Beispiel: 
 
-- Sicherheit der Betriebsumgebung - die Verlässlichkeit von Dienstleistern.
+- Sicherheit der Betriebsumgebung 
+- die Verlässlichkeit von Dienstleistern.
 
 
-- Datenschutz vs. Datensicherheit
+### Datenschutz vs. Datensicherheit:
 
 
 - Rechtliche Vorgaben
