@@ -15,6 +15,8 @@ Informationssicherheit konzentriert sich nicht nur auf die IT-Systeme sondern au
 
 ### Datenschutz vs. Datensicherheit:
 
+#### Datensicherheit
+IT-Sicherheit bezeichnet einen Zustand, in dem die Risiken, die beim Einsatz von Informationstechnik aufgrund von Bedrohungen und Schwachstellen vorhanden sind, durch angemessene Maßnahmen auf ein tragbares Maß reduziert sind. IT-Sicherheit ist also der Zustand, in dem Vertraulichkeit, Integrität und 4 Glossar und Begriffsdefinitionen 4 IT-Grundschutz-Kataloge: 15. EL Stand 2016 104 Verfügbarkeit von Informationen und Informationstechnik durch angemessene Maßnahmen geschützt sind.
 
 ### Rechtliche Vorgaben
 
