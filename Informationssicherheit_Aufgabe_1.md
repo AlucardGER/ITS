@@ -49,10 +49,10 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
 4. KWG: Kreditwesengesetz mit Bankenaufsichtliche Anforderungen an die IT (BAIT), Mindestanforderungen an die Compliance-Funktion (MaComp) und an das Risikomanagement (BA) (MaRisk (BA))
 
 ### Das Schichtenmodell nach BSI
-- Schicht 1 - Übergreifende Aspekte
- 1.0. Sicherheitsmanagement
- 1.1. Organisation
- 1.2. Personal
+1. Schicht - Übergreifende Aspekte
+ - 1.0. Sicherheitsmanagement
+ - 1.1. Organisation
+ - 1.2. Personal
  1.3. Notfallmanagement
  1.4. Datensicherungskonzept
  1.5. Datenschutz
@@ -86,26 +86,26 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  3.101. Allgemeiner Server
  3.102. Server unter Unix
  3.103. Server unter Windows NT
-B 3.104. Server unter Novell Netware 3.x
-B 3.105. Server unter Novell Netware Version 4.x
-B 3.106. Server unter Windows 2000
-B 3.107. S/390- und zSeries-Mainframe
-B 3.108. Windows Server 2003
-B 3.109. Windows Server 2008
-B 3.201. Allgemeiner Client
-B 3.202. Allgemeines nicht vernetztes IT-System
-B 3.203. Laptop
-B 3.204. Client unter Unix
-B 3.205. Client unter Windows NT
-B 3.206. Client unter Windows 95
-B 3.207. Client unter Windows 2000
-B 3.208. Internet-PC
-B 3.209. Client unter Windows XP
-B 3.210. Client unter Windows Vista
-B 3.211. Client unter Mac OS X
-B 3.212. Client unter Windows 7
-B 3.213. Client unter Windows 8
-B 3.301. Sicherheitsgateway (Firewall)
+ 3.104. Server unter Novell Netware 3.x
+ 3.105. Server unter Novell Netware Version 4.x
+ 3.106. Server unter Windows 2000
+ 3.107. S/390- und zSeries-Mainframe
+ 3.108. Windows Server 2003
+ 3.109. Windows Server 2008
+ 3.201. Allgemeiner Client
+ 3.202. Allgemeines nicht vernetztes IT-System
+ 3.203. Laptop
+ 3.204. Client unter Unix
+ 3.205. Client unter Windows NT
+ 3.206. Client unter Windows 95
+ 3.207. Client unter Windows 2000
+ 3.208. Internet-PC
+ 3.209. Client unter Windows XP
+ 3.210. Client unter Windows Vista
+ 3.211. Client unter Mac OS X
+ 3.212. Client unter Windows 7
+ 3.213. Client unter Windows 8
+ 3.301. Sicherheitsgateway (Firewall)
  3.302. Router und Switches
  3.303. Speicherlösungen / Cloud Storage
  3.304. Virtualisierung
