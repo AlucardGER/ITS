@@ -42,10 +42,11 @@ Auf diesen Sachverhalt hat der Gesetzgeber reagiert und verschärfte Anforderung
 2. KonTraG: Gesetz zur Kontrolle und Transparenz im Unternehmensbereich
 - Unternehmensleitung ist dazu verpflichtet, ein unternehmensweites Früherkennungssystem für Risiken einzuführen und zu betreiben (Risikofrüherkennungssystem, Risikomanagment)
 3. GoBD: Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff durch die Finanzverwaltungen
-4. S-Ox: Sarbanes-Oxley Act
-5. COSO: Committee of Sponsoring Organizations of the Treadway Commission
-6. Basel II, Solvency II
-7. KWG: Kreditwesengesetz mit Bankenaufsichtliche Anforderungen an die IT (BAIT), Mindestanforderungen an die Compliance-Funktion (MaComp) und an das Risikomanagement (BA) (MaRisk (BA))
+- Datensicherheit	
+Schutz der Daten vor Verlust und unberechtigten 
+- Datenunveränderbarkeit
+Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine entsprechende Kennzeichnung
+4. KWG: Kreditwesengesetz mit Bankenaufsichtliche Anforderungen an die IT (BAIT), Mindestanforderungen an die Compliance-Funktion (MaComp) und an das Risikomanagement (BA) (MaRisk (BA))
 
 
 https://blog.adacor.com/gesetzliche-anforderungen-it-compliance_1055.html 
