@@ -1,11 +1,11 @@
-## Aufgabe1
+# Aufgabe1
 
-# 1. Informieren Sie sich über die Grundlagen der Informationssicherheit ⌚30‘
+## 1. Informieren Sie sich über die Grundlagen der Informationssicherheit ⌚30‘
 Fassen Sie die wichtigsten Informationen kurz in einer DOKUMENTATION zusammen:
 
-- Was ist Informationssicherheit? / Grundwerte der Informationssicherheit
+### Was ist Informationssicherheit? / Grundwerte der Informationssicherheit
 
--- a
+a
 
 - Datenschutz vs. Datensicherheit
 
