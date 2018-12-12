@@ -50,7 +50,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
 
 ### Das Schichtenmodell nach BSI
 #### 1. Schicht - Übergreifende Aspekte:
-##### Übergreifende Aspekte sind Sicherheitsaspekte, für nahzu alle Teile des Informationsverbunds gleichermaßen gelten. Insbesondere betroffen sind abgeleiteten Regelungen der übergreifende Konzepte. Schicht 1 umfasst typische Bausteine wie unter anderem IT-Sicherheitsmanagement, Organisation, Datensicherungskonzept und Schutz vor Schadprogramme.
+#### Übergreifende Aspekte sind Sicherheitsaspekte, für nahzu alle Teile des Informationsverbunds gleichermaßen gelten. Insbesondere betroffen sind abgeleiteten Regelungen der übergreifende Konzepte. Schicht 1 umfasst typische Bausteine wie unter anderem IT-Sicherheitsmanagement, Organisation, Datensicherungskonzept und Schutz vor Schadprogramme.
  - 1.0. Sicherheitsmanagement
  - 1.1. Organisation
  - 1.2. Personal
