@@ -30,7 +30,6 @@ auch im EU-Raum vermehrt genutzt.
 IT-Sicherheit bezeichnet einen Zustand, in dem die Risiken, die beim Einsatz von Informationstechnik aufgrund von Bedrohungen und Schwachstellen vorhanden sind, durch angemessene Maßnahmen auf ein tragbares Maß reduziert sind. IT-Sicherheit ist also der Zustand, in dem Vertraulichkeit, Integrität und 4 Glossar und Begriffsdefinitionen 4 IT-Grundschutz-Kataloge: 15. EL Stand 2016 104 Verfügbarkeit von Informationen und Informationstechnik durch angemessene Maßnahmen geschützt sind.
 
 
-
 ### Rechtliche Vorgaben
 
 
@@ -38,13 +37,13 @@ Deutsche Unternehmen sind gesetzlich dazu verpflichtet, sich um den Aufbau und d
 
 Auf diesen Sachverhalt hat der Gesetzgeber reagiert und verschärfte Anforderungen an eine unternehmensweite Informationssicherheit definiert.
 
-- EU-Datenschutzgrundverordnung (EU-DSGVO)
-- KonTraG: Gesetz zur Kontrolle und Transparenz im Unternehmensbereich
-- GoBD: Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff durch die Finanzverwaltungen
-- S-Ox: Sarbanes-Oxley Act
-- COSO: Committee of Sponsoring Organizations of the Treadway Commission
-- Basel II, Solvency II
-- KWG: Kreditwesengesetz mit Bankenaufsichtliche Anforderungen an die IT (BAIT), Mindestanforderungen an die Compliance-Funktion (MaComp) und an das Risikomanagement (BA) (MaRisk (BA))
+1. EU-Datenschutzgrundverordnung (EU-DSGVO)
+2. KonTraG: Gesetz zur Kontrolle und Transparenz im Unternehmensbereich
+3. GoBD: Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff durch die Finanzverwaltungen
+4. S-Ox: Sarbanes-Oxley Act
+5. COSO: Committee of Sponsoring Organizations of the Treadway Commission
+6. Basel II, Solvency II
+7. KWG: Kreditwesengesetz mit Bankenaufsichtliche Anforderungen an die IT (BAIT), Mindestanforderungen an die Compliance-Funktion (MaComp) und an das Risikomanagement (BA) (MaRisk (BA))
 
 
 https://blog.adacor.com/gesetzliche-anforderungen-it-compliance_1055.html 
