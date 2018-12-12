@@ -32,10 +32,23 @@ IT-Sicherheit bezeichnet einen Zustand, in dem die Risiken, die beim Einsatz von
 
 
 ### Rechtliche Vorgaben
+
+
 Deutsche Unternehmen sind gesetzlich dazu verpflichtet, sich um den Aufbau und die Pflege eines Risikomanagements zu kümmern und in die Umsetzung von Maßnahmen zur IT-Sicherheit zu investieren.
-Was in Zeiten von Globalisierung und Mobilität großen Nutzen bringt, birgt durch die hohe Abhängigkeit von IT-Systemen für Unternehmen aber auch Gefahren.
 
 Auf diesen Sachverhalt hat der Gesetzgeber reagiert und verschärfte Anforderungen an eine unternehmensweite Informationssicherheit definiert.
+
+- EU-DSGVO – EU-Datenschutzgrundverordnung
+regelkonform bleiben.
+
+EU-Datenschutzgrundverordnung (EU-DSGVO)
+KonTraG: Gesetz zur Kontrolle und Transparenz im Unternehmensbereich
+GoBD: Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff durch die Finanzverwaltungen
+S-Ox: Sarbanes-Oxley Act
+COSO: Committee of Sponsoring Organizations of the Treadway Commission
+Basel II, Solvency II
+KWG: Kreditwesengesetz mit Bankenaufsichtliche Anforderungen an die IT (BAIT), Mindestanforderungen an die Compliance-Funktion (MaComp) und an das Risikomanagement (BA) (MaRisk (BA))
+
 
 https://blog.adacor.com/gesetzliche-anforderungen-it-compliance_1055.html 
 
