@@ -15,8 +15,21 @@ Informationssicherheit konzentriert sich nicht nur auf die IT-Systeme sondern au
 
 ### Datenschutz vs. Datensicherheit:
 
+### Datenschutz
+Datenschutz soll den Einzelnen davor schützen, dass er durch den Umgang mit seinen personenbezogenen
+Daten in seinem Persönlichkeitsrecht beeinträchtigt wird. Mit Datenschutz wird daher der Schutz
+personenbezogener Daten vor etwaigem Missbrauch durch Dritte bezeichnet (nicht zu verwechseln mit
+Datensicherheit).
+Für den Begriff "Datenschutz" existieren zwei englische Übersetzungen: Dabei bezeichnet "data protection"
+den Datenschutz als Rechtsbegriff. "Privacy" zielt dagegen auf die gesellschaftliche Lebensweise
+ab (Schutz der Privatsphäre) und wird überwiegend im amerikanischen Sprachumfeld und mittlerweile
+auch im EU-Raum vermehrt genutzt.
+
+
 #### Datensicherheit
 IT-Sicherheit bezeichnet einen Zustand, in dem die Risiken, die beim Einsatz von Informationstechnik aufgrund von Bedrohungen und Schwachstellen vorhanden sind, durch angemessene Maßnahmen auf ein tragbares Maß reduziert sind. IT-Sicherheit ist also der Zustand, in dem Vertraulichkeit, Integrität und 4 Glossar und Begriffsdefinitionen 4 IT-Grundschutz-Kataloge: 15. EL Stand 2016 104 Verfügbarkeit von Informationen und Informationstechnik durch angemessene Maßnahmen geschützt sind.
+
+
 
 ### Rechtliche Vorgaben
 
