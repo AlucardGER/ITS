@@ -38,6 +38,7 @@ Deutsche Unternehmen sind gesetzlich dazu verpflichtet, sich um den Aufbau und d
 Auf diesen Sachverhalt hat der Gesetzgeber reagiert und verschärfte Anforderungen an eine unternehmensweite Informationssicherheit definiert.
 
 1. EU-Datenschutzgrundverordnung (EU-DSGVO)
+-- asda
 2. KonTraG: Gesetz zur Kontrolle und Transparenz im Unternehmensbereich
 3. GoBD: Grundsätze zur ordnungsmäßigen Führung und Aufbewahrung von Büchern, Aufzeichnungen und Unterlagen in elektronischer Form sowie zum Datenzugriff durch die Finanzverwaltungen
 4. S-Ox: Sarbanes-Oxley Act
