@@ -49,7 +49,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
 4. KWG: Kreditwesengesetz mit Bankenaufsichtliche Anforderungen an die IT (BAIT), Mindestanforderungen an die Compliance-Funktion (MaComp) und an das Risikomanagement (BA) (MaRisk (BA))
 
 ### Das Schichtenmodell nach BSI
-1. Schicht - Übergreifende Aspekte
+#### 1. Schicht - Übergreifende Aspekte
  - 1.0. Sicherheitsmanagement
  - 1.1. Organisation
  - 1.2. Personal
