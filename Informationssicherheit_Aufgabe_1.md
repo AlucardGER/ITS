@@ -131,6 +131,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
 -  4.7. VoIP
 -  4.8. Bluetooth
 #### 5. Schicht - Anwendungen
+#### Die vom Informationsverbund genutzten Anwendungen werden in der 5. Schicht behandelt. In dieser Schicht können unter anderem die Bausteine EMail, Webserver, Faxserver und Datenbanken zur Modellierung verwendet werden.
 - 5.1. Peer-to-Peer-Dienste
 - 5.2. Datenträgeraustausch
 - 5.3. Groupware
