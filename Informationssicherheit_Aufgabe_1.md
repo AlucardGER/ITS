@@ -71,6 +71,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  - 1.17. Cloud-Nutzung
  - 1.18. Identitäts- und Berechtigungsmanagement
 #### - Schicht 2 - Infrastruktur
+### Bauliche und physischen Gegebenheiten werden in der Schicht 2 behandelt, indem Aspekte der infrastrukturellen Sicherheit zusammengeführt werden. Typische Bausteine sind zum Beispiel Gebäude, Serverraum, Rechenzentrum und häuslicher Arbeitsplatz.
  - 2.1. Allgemeines Gebäude
  - 2.2. Elektrotechnische Verkabelung
  - 2.3. Büroraum / Lokaler Arbeitsplatz
