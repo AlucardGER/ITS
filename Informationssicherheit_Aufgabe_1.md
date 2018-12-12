@@ -16,10 +16,10 @@ Informationssicherheit konzentriert sich nicht nur auf die IT-Systeme sondern au
 ### Datenschutz vs. Datensicherheit:
 
 
-- Rechtliche Vorgaben
+### Rechtliche Vorgaben
 
 
-- Das Schichtenmodell nach BSI
+### Das Schichtenmodell nach BSI
 
 
-- Wo gibt es Informationen?
+### Wo gibt es Informationen?
