@@ -53,23 +53,23 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  - 1.0. Sicherheitsmanagement
  - 1.1. Organisation
  - 1.2. Personal
- 1.3. Notfallmanagement
- 1.4. Datensicherungskonzept
- 1.5. Datenschutz
- 1.6. Schutz vor Schadprogrammen
- 1.7. Kryptokonzept
- 1.8. Behandlung von Sicherheitsvorfällen
- 1.9. Hard- und Software-Management
- 1.10. Standardsoftware
- 1.11. Outsourcing
- 1.12. Archivierung
- 1.13. Sensibilisierung und Schulung zur Informationssicherheit
- 1.14. Patch- und Änderungsmanagement
- 1.15. Löschen und Vernichten von Daten
- 1.16. Anforderungsmanagement
- 1.17. Cloud-Nutzung
- 1.18. Identitäts- und Berechtigungsmanagement
-- Schicht 2 - Infrastruktur
+ - 1.3. Notfallmanagement
+ - 1.4. Datensicherungskonzept
+ - 1.5. Datenschutz
+ - 1.6. Schutz vor Schadprogrammen
+ - 1.7. Kryptokonzept
+ - 1.8. Behandlung von Sicherheitsvorfällen
+ - 1.9. Hard- und Software-Management
+ - 1.10. Standardsoftware
+ - 1.11. Outsourcing
+ - 1.12. Archivierung
+ - 1.13. Sensibilisierung und Schulung zur Informationssicherheit
+ - 1.14. Patch- und Änderungsmanagement
+ - 1.15. Löschen und Vernichten von Daten
+ - 1.16. Anforderungsmanagement
+ - 1.17. Cloud-Nutzung
+ - 1.18. Identitäts- und Berechtigungsmanagement
+#### - Schicht 2 - Infrastruktur
  2.1. Allgemeines Gebäude
  2.2. Elektrotechnische Verkabelung
  2.3. Büroraum / Lokaler Arbeitsplatz
@@ -82,7 +82,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  2.10. Mobiler Arbeitsplatz
  2.11. Besprechungs-, Veranstaltungs- und Schulungsräume
  2.12. IT-Verkabelung
-- Schicht 3 - IT-Systeme
+#### - Schicht 3 - IT-Systeme
  3.101. Allgemeiner Server
  3.102. Server unter Unix
  3.103. Server unter Windows NT
@@ -117,7 +117,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  3.405. Smartphones, Tablets und PDAs
  3.406. Drucker, Kopierer und Multifunktionsgeräte
  3.407. Eingebettetes System
-- Schicht 4 - Netze
+#### - Schicht 4 - Netze
  4.1. Lokale Netze
  4.2. Netz- und Systemmanagement
  4.3. Modem
@@ -126,7 +126,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
  4.6. WLAN
  4.7. VoIP
  4.8. Bluetooth
-- Schicht 5 - Anwendungen
+#### - Schicht 5 - Anwendungen
  5.1. Peer-to-Peer-Dienste
  5.2. Datenträgeraustausch
  5.3. Groupware
