@@ -161,7 +161,7 @@ Zugriffen	Kein Verändern, Überschreiben oder Ersetzen von Daten ohne eine ents
 
 ### Wo gibt es Informationen?
 #### Schutzbedürftigen Informationen: 
-auf Papier 
-analogen Datenträgern wie Mikrofilm 
-digitalen Datenträgern (elektronisch, magnetisch, optisch)
+- auf Papier 
+- analogen Datenträgern wie Mikrofilm 
+- digitalen Datenträgern (elektronisch, magnetisch, optisch)
 
