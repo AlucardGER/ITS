@@ -16,14 +16,12 @@ Informationssicherheit konzentriert sich nicht nur auf die IT-Systeme sondern au
 ### Datenschutz vs. Datensicherheit:
 
 ### Datenschutz
-Datenschutz soll den Einzelnen davor schützen, dass er durch den Umgang mit seinen personenbezogenen
-Daten in seinem Persönlichkeitsrecht beeinträchtigt wird. Mit Datenschutz wird daher der Schutz
-personenbezogener Daten vor etwaigem Missbrauch durch Dritte bezeichnet (nicht zu verwechseln mit
-Datensicherheit).
-Für den Begriff "Datenschutz" existieren zwei englische Übersetzungen: Dabei bezeichnet "data protection"
-den Datenschutz als Rechtsbegriff. "Privacy" zielt dagegen auf die gesellschaftliche Lebensweise
-ab (Schutz der Privatsphäre) und wird überwiegend im amerikanischen Sprachumfeld und mittlerweile
-auch im EU-Raum vermehrt genutzt.
+Personenbezogene Daten sollen mittels Datenschutzes Geschütz werden, damit das Persönlichkeitsrecht eines jeden nicht beeinträchtigt wird. Ein Beispiel hierzu wäre der Missbrauch personenbezogener Daten durch Dritte, dies wäre eine Beeinträchtigung des Persönlichkeitsrechts. Der Begriff "Datenschutz“ hat im englischsprachigen Raum zwei Übersetzungen: 
+
+•	"data protection", ist der Datenschutz als Rechtsbegriff
+
+•	Über "Privacy" spricht man, wenn man über den Schutz der Privatsphäre geht
+
 
 
 #### Datensicherheit
