@@ -18,9 +18,9 @@ Informationssicherheit konzentriert sich nicht nur auf die IT-Systeme sondern au
 ### Datenschutz
 Personenbezogene Daten sollen mittels Datenschutzes Geschütz werden, damit das Persönlichkeitsrecht eines jeden nicht beeinträchtigt wird. Ein Beispiel hierzu wäre der Missbrauch personenbezogener Daten durch Dritte, dies wäre eine Beeinträchtigung des Persönlichkeitsrechts. Der Begriff "Datenschutz“ hat im englischsprachigen Raum zwei Übersetzungen: 
 
-•	"data protection", ist der Datenschutz als Rechtsbegriff
+-	"data protection", ist der Datenschutz als Rechtsbegriff
 
-•	Über "Privacy" spricht man, wenn man über den Schutz der Privatsphäre geht
+-	Über "Privacy" spricht man, wenn man über den Schutz der Privatsphäre geht
 
 
 
