@@ -31,7 +31,7 @@ IT-Sicherheit bezeichnet einen Zustand, in dem die Risiken, die beim Einsatz von
 ### Rechtliche Vorgaben
 
 
-Deutsche Unternehmen sind gesetzlich dazu verpflichtet, sich um den Aufbau und die Pflege eines Risikomanagements zu kümmern und in die Umsetzung von Maßnahmen zur IT-Sicherheit zu investieren.
+Deutsche Unternehmen sind gesetzlich dazu verpflichtet, sich um den Aufbau und die Pflege eines Risikomanagements zu kümmern und um die Umsetzung von Maßnahmen zur IT-Sicherheit zu investieren.
 
 Auf diesen Sachverhalt hat der Gesetzgeber reagiert und verschärfte Anforderungen an eine unternehmensweite Informationssicherheit definiert.
 
