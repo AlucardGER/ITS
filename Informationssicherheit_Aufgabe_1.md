@@ -11,6 +11,8 @@ Informationssicherheit konzentriert sich nicht nur auf die IT-Systeme sondern au
 - Sicherheit der Betriebsumgebung 
 - die Verlässlichkeit von Dienstleistern
 - richtiger Umgang mit zu schützenden Informationen
+
+Grundwerte:
 - Vertraulichkeit, integrität und Verfügbarkeit
 
 
